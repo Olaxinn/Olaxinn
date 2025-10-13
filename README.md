@@ -1,18 +1,17 @@
-# n0thing (Ozan) — Future Cybersecurity Engineer & Software Enthusiast
+# n0thing
+**Geleceğin Siber Güvenlik Mühendisi & Yazılım Geliştiricisi | Python / C# | Web Uygulamaları | TryHackMe**
 
-**Geleceğin Siber Güvenlik Mühendisi · Yazılım Meraklısı · Pentesting & Python / C# · Web Development**  
-Siber güvenlik tutkusu ile lab’lerde deneyim kazanıyor, kod yazarak öğrenmeye devam ediyorum 💡  
+🌐 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
 
-🌐 [Kişisel site](https://ozansec.vercel.app) · 🔐 TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
-📄 Resume: [link] · ✉️ Email: [you@domain.tld] · 📍 Turkey  
+![Giriş Animasyonu](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkyOGMzMGZ3NTZ5M2Q5ZHFvZHAwd2h2bGxlOGRiMmcyYXU0eWdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical" alt="GitHub Streak" width="700"/>
@@ -22,12 +21,8 @@ Siber güvenlik tutkusu ile lab’lerde deneyim kazanıyor, kod yazarak öğrenm
 
 ## 🛠️ Teknik Yetkinlikler
 
-**Siber Güvenlik & Pentest Araçları:**  
-Kali Linux, Burp Suite, Wireshark, Metasploit, Linux & Windows lab ortamları  
-![Learning](https://img.shields.io/badge/Learning-Cybersecurity-brightgreen?style=for-the-badge&logo=brain&logoColor=white&animation=fade)
+**Programlama Dilleri & Teknolojiler**
 
-**Programlama Dilleri & Teknolojiler:**  
-Python, C#, JavaScript, HTML, CSS, SQL  
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,43 +30,38 @@ Python, C#, JavaScript, HTML, CSS, SQL
 ![CSS3](https://img.shields.io/badge/CSS3-Standard-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Relational-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Veritabanları:** MySQL, SQLite3, SQL Server  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) 
-![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) 
-![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
+**Veritabanları:**  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
 
 **OS / Araçlar:**  
-Kali Linux, Arch Linux, Git, VS Code  
-![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) 
-![Arch Linux](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-2.42-orange?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-1.82-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-💡 Henüz uzman değilim ama sürekli deneyip öğreniyorum. Lab çalışmaları ve pentest denemeleri ile kendimi geliştiriyorum.
+![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch Linux](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge)
 
 ---
 
-## 🔒 Pentest & Lab Deneyimi
+## 🔒 Siber Güvenlik & Pentest Deneyimi
 
-- TryHackMe Profile: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
-- 💡 Tüm çalışmalar **izne dayalı laboratuvar ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
+- **TryHackMe Profilim:** [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
+  💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png)
 
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png" alt="TryHackMe Badge" width="300"/>
-</p>
-
-**Öne Çıkanlar:**  
-- Web uygulama güvenlik testleri (XSS, SQLi, CSRF)  
-- Basit otomasyon scriptleri ile güvenlik açıklarını tespit etmeyi öğreniyorum  
-- Linux ve Windows tabanlı penetration test laboratuvar deneyimi  
-
-🎬   
-<div class="tenor-gif-embed" data-postid="7933003135340137862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862">Tux Linux Tux Sticker</a>from <a href="https://tenor.com/search/tux-stickers">Tux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+- **Kendi Lab Ortamım:**  
+  🧪 Eski cihazlarımda oluşturduğum sanal makinelerde zararlı yazılımlar üzerinde testler yaparak, güvenlik açıklarını analiz ediyorum.
 
 ---
 
-💡 **Fun Fact:** Hatalar öğrenmenin en hızlı yoludur; lab’de denedikçe büyüyorum 🚀  
+## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi Olmak
+
+Yazılım geliştirme konusundaki tutkum, beni siber güvenlik alanında derinlemesine bilgi edinmeye yönlendirdi. Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında uzmanlaşarak, dijital dünyayı daha güvenli hale getirmektir.
 
 ---
 
-© Ozan — MIT License
+## 📬 İletişim
+
+- 📧 [ozan@ozansec.vercel.app](mailto:ozan@ozansec.vercel.app)
+- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-a-6229192b0/)
+
+
+---
+
+**Not:** Tüm laboratuvar çalışmaları izne dayalı ortamlarda yapılmıştır.  
+© Ozan — MIT License.
