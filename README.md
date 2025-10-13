@@ -1,4 +1,4 @@
-# n0thing (Ozan) — Cybersecurity Enthusiast & Aspiring Software Engineer
+# n0thing (Ozan) — Aspiring Cybersecurity Engineer & Software Enthusiast 
 
 **Cybersecurity · Python / C# · Web Development · Pentesting · Gitar**  
 Hala öğreniyorum ama sürekli deneyip kendimi geliştiriyorum 💡  
