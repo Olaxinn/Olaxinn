@@ -45,10 +45,6 @@
 - **TryHackMe Profilim:** [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
   💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png)
-
-- **Kendi Lab Ortamım:**  
-  🧪 Eski cihazlarımda oluşturduğum sanal makinelerde zararlı yazılımlar üzerinde testler yaparak, güvenlik açıklarını analiz ediyorum.
-
 ---
 
 ## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi Olmak
