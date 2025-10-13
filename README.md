@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 # 👋 Merhaba — Ben Ozan
-**Cybersecurity & Yazılım Tutkunu · Python / C# · Web · TryHackMe**
+**Cybersecurity & Yazılım · Python / C# · Web · TryHackMe**
 
 🌐 Kişisel site: https://ozansec.vercel.app  
 🔗 TryHackMe: https://tryhackme.com/p/rlyn0thing
