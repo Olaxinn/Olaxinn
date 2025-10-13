@@ -1,47 +1,57 @@
-# n0thing
-**Cybersecurity & Yazılım & Gitarist · Python / C# · Web · TryHackMe**
+# n0thing (Ozan) — Cybersecurity Enthusiast & Aspiring Software Engineer
 
-🌐 [Kişisel site](https://ozansec.vercel.app) | 🔐 [TryHackMe](https://tryhackme.com/p/rlyn0thing) | 🧾 [GitHub](https://github.com/Olaxinn)
+**Cybersecurity · Python / C# · Web Development · Pentesting · Gitar**  
+Hala öğreniyorum ama sürekli deneyip kendimi geliştiriyorum 💡  
+
+🌐 [Kişisel site](https://ozansec.vercel.app) · 🔐 TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
+📄 Resume: [link] · ✉️ Email: [you@domain.tld] · 📍 Turkey
 
 ---
 
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical" alt="GitHub Streak" width="700"/>
 </p>
 
+---
 
-### 🛠️ Teknik Yetkinlikler
+## 🛠️ Teknik Yetkinlikler
 
-**Programlama Dilleri & Teknolojiler**
+**Programlama Dilleri & Teknolojiler**  
+Python, C#, JavaScript, HTML, CSS, SQL  
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Standard-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Standard-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Relational-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Veritabanları:** MySQL, SQLite3, SQL Server  
+**OS / Araçlar:** Kali Linux, Arch Linux, Git, VS Code  
 
-**Veritabanları:**  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
-
-**OS / Araçlar:**  
-![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch Linux](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge)
+💡 Henüz uzman değilim ama sürekli deneyip öğreniyorum. Kod yazarken ve güvenlik lab’lerinde hatalardan ders alıyorum.
 
 ---
 
 ## 🔒 Pentest & Lab Deneyimi
-- TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)   
-💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
-<img src="https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png" alt="Your Image Badge" />
 
+- TryHackMe Profile: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
+- 💡 Tüm çalışmalar **izne dayalı laboratuvar ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png" alt="TryHackMe Badge" width="300"/>
+
+**Öne Çıkanlar:**  
+- Web uygulama güvenlik testleri (XSS, SQLi, CSRF)  
+- Basit otomasyon scriptleri ile güvenlik açıklarını tespit etmeyi öğreniyorum  
+- Linux ve Windows tabanlı penetration test laboratuvar deneyimi  
 
 ---
 
-**Not:** Tüm laboratuvar çalışmaları izne dayalı ortamlarda yapılmıştır.  
-© Ozan — MIT License.
+## 🎯 Ben Kimim?
+
+- Hata yapmaktan korkmayan, öğrenmeye aç bir güvenlik meraklısıyım  
+- Hem yazılım hem siber güvenlik alanında kendimi geliştirmeye devam ediyorum  
+- Etik, sorumlu ve izne dayalı test deneyimi  
+
+---
+
+© Ozan — MIT License
