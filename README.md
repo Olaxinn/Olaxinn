@@ -1,7 +1,7 @@
 # 👋 Merhaba — Ben Ozan
-**Cybersecurity & Yazılım Tutkunu · Python / C# · Web · TryHackMe**
+**Cybersecurity & Yazılım & Gitarist · Python / C# · Web · TryHackMe**
 
-🌐 [Kişisel site](https://ozansec.vercel.app) | 🔐 [TryHackMe](https://tryhackme.com/p/rlyn0thing) | 🧾 [GitHub](https://github.com/your-username)
+🌐 [Kişisel site](https://ozansec.vercel.app) | 🔐 [TryHackMe](https://tryhackme.com/p/rlyn0thing) | 🧾 [GitHub](https://github.com/Olaxinn)
 
 ---
 
@@ -13,26 +13,35 @@
 ---
 
 ## 🛠️ Teknik Yetkinlikler
-**Diller:** ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet?style=for-the-badge) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)  
-**Veritabanları:** ![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)  
-**OS:** ![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-10-lightgrey?style=for-the-badge)
+**Diller:**  
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet?style=for-the-badge) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-shell-important?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-Standard-lightgrey?style=for-the-badge)
+
+**Veritabanları:**  
+![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
+
+**OS / Araçlar:**  
+![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch Linux](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge)
 
 ---
 
 ## 🔒 Pentest & Lab Deneyimi
-- TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
-- CTF & Lab: MR Robot, Web & Exploit lab ortamları  
-- Yöntem: Keşif → Servis / Versiyon Analizi → Zaafiyet Analizi → Exploit → Pivot / Post-Exploit  
-
+- TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)   
 💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
 
 ---
 
+## 💻 Öne Çıkan Projeler
 
+### Kişisel Blog / Portföy Sitesi
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)  
+Kendi projelerimi sergilediğim, yazılarımı paylaştığım kişisel blog sayfam.  
+[Site →](https://ozansec.vercel.app)
+
+---
 
 ## 📫 İletişim
 [🌐 Site](https://ozansec.vercel.app)  
-[✉️ Mail](mailto:o.aksoy1920@gmail.com)  
+[✉️ Mail](mailto:o.aksoy1920@example.com)  
 [🔐 TryHackMe](https://tryhackme.com/p/rlyn0thing)  
 [🧾 GitHub](https://github.com/Olaxinn)
 
