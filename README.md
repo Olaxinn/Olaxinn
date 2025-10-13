@@ -1,29 +1,42 @@
-<!-- ========================= -->
-<!-- HERO / Başlık + Badgeler -->
-<!-- ========================= -->
-
 # 👋 Merhaba — Ben Ozan
-**Cybersecurity & Yazılım · Python / C# · Web · TryHackMe**
+**Cybersecurity & Yazılım Tutkunu · Python / C# · Web · TryHackMe**
 
-🌐 Kişisel site: https://ozansec.vercel.app  
-🔗 TryHackMe: https://tryhackme.com/p/rlyn0thing
+🌐 [Kişisel site](https://ozansec.vercel.app) | 🔐 [TryHackMe](https://tryhackme.com/p/rlyn0thing) | 🧾 [GitHub](https://github.com/your-username)
 
-[![Location](https://img.shields.io/badge/Location-D%C3%BCzce-blue)]()
-[![Languages](https://img.shields.io/badge/Languages-Python%20%C2%B7%20C%23%20%C2%B7%20JS-orange)]()
-[![OS](https://img.shields.io/badge/OS-Kali%20%2F%20Arch%20%2F%20Windows-lightgrey)]()
+---
 
-## Hakkımda
-Bilgisayar ve yazılıma küçük yaşlarda ilgi duymaya başladım. Lise'de Yazılım Geliştirme eğitimi aldım; C# ile ilk projelerimi yazdım ve Han Elektronik'te teknik destek/staj deneyimi edindim. Şu an lab ortamında pentest ve güvenlik çalışmaları yapıyor; bilgiyi etik sınırlar içinde öğrenip paylaşmaya odaklanıyorum.
+## 💻 İstatistiklerim
+![Ozan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
 
-**Etik:** Tüm çalışmalarım izne dayalı lab/CTF ortamlarında gerçekleşir. İzinsiz erişim veya mahremiyet ihlali asla kabul etmem.
-
-## Teknik Yetkinlikler
-**Diller:** Python · C# · JavaScript · HTML · CSS · Bash · SQL  
-**Veritabanları:** MySQL · SQLite3 · SQL Server  
-**İşletim Sistemleri:** Kali Linux · Arch · Windows  
-**İlgi Alanları:** Pentest, CTF (MR Robot, TryHackMe), web güvenliği, araç geliştirme, açık kaynak
+---
 
 ## 🛠️ Teknik Yetkinlikler
-**Diller:** ![Python](https://img.shields.io/badge/Python-3.11-blue) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)  
-**Veritabanları:** ![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen)  
-**OS:** ![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue) ![Arch](https://img.shields.io/badge/ArchLinux-2025-lightblue) ![Windows](https://img.shields.io/badge/Windows-10-lightgrey)
+**Diller:** ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet?style=for-the-badge) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)  
+**Veritabanları:** ![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)  
+**OS:** ![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-10-lightgrey?style=for-the-badge)
+
+---
+
+## 🔒 Pentest & Lab Deneyimi
+- TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)  
+- CTF & Lab: MR Robot, Web & Exploit lab ortamları  
+- Yöntem: Keşif → Servis / Versiyon Analizi → Zaafiyet Analizi → Exploit → Pivot / Post-Exploit  
+
+💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
+
+---
+
+
+
+## 📫 İletişim
+[🌐 Site](https://ozansec.vercel.app)  
+[✉️ Mail](mailto:o.aksoy1920@gmail.com)  
+[🔐 TryHackMe](https://tryhackme.com/p/rlyn0thing)  
+[🧾 GitHub](https://github.com/Olaxinn)
+
+---
+
+**Not:** Tüm laboratuvar çalışmaları izne dayalı ortamlarda yapılmıştır.  
+© Ozan — MIT License.
