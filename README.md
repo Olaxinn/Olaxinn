@@ -1,4 +1,4 @@
-# 👋 Merhaba — Ben Ozan
+# n0thing
 **Cybersecurity & Yazılım & Gitarist · Python / C# · Web · TryHackMe**
 
 🌐 [Kişisel site](https://ozansec.vercel.app) | 🔐 [TryHackMe](https://tryhackme.com/p/rlyn0thing) | 🧾 [GitHub](https://github.com/Olaxinn)
@@ -28,22 +28,8 @@
 - TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)   
 💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
 
----
+![TryHackMe Badge](https://raw.githubusercontent.com/Olaxinn/Olaxinn/master/assets/thm_badge.png)
 
-## 💻 Öne Çıkan Projeler
-
-### Kişisel Blog / Portföy Sitesi
-![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge)  
-Kendi projelerimi sergilediğim, yazılarımı paylaştığım kişisel blog sayfam.  
-[Site →](https://ozansec.vercel.app)
-
----
-
-## 📫 İletişim
-[🌐 Site](https://ozansec.vercel.app)  
-[✉️ Mail](mailto:o.aksoy1920@example.com)  
-[🔐 TryHackMe](https://tryhackme.com/p/rlyn0thing)  
-[🧾 GitHub](https://github.com/Olaxinn)
 
 ---
 
