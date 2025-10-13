@@ -46,12 +46,4 @@ Python, C#, JavaScript, HTML, CSS, SQL
 
 ---
 
-## 🎯 Ben Kimim?
-
-- Hata yapmaktan korkmayan, öğrenmeye aç bir güvenlik meraklısıyım  
-- Hem yazılım hem siber güvenlik alanında kendimi geliştirmeye devam ediyorum  
-- Etik, sorumlu ve izne dayalı test deneyimi  
-
----
-
 © Ozan — MIT License
