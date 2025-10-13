@@ -22,3 +22,8 @@ Bilgisayar ve yazılıma küçük yaşlarda ilgi duymaya başladım. Lise'de Yaz
 **Veritabanları:** MySQL · SQLite3 · SQL Server  
 **İşletim Sistemleri:** Kali Linux · Arch · Windows  
 **İlgi Alanları:** Pentest, CTF (MR Robot, TryHackMe), web güvenliği, araç geliştirme, açık kaynak
+
+## 🛠️ Teknik Yetkinlikler
+**Diller:** ![Python](https://img.shields.io/badge/Python-3.11-blue) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow)  
+**Veritabanları:** ![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen)  
+**OS:** ![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue) ![Arch](https://img.shields.io/badge/ArchLinux-2025-lightblue) ![Windows](https://img.shields.io/badge/Windows-10-lightgrey)
