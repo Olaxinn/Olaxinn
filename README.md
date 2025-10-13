@@ -1,5 +1,5 @@
 # n0thing
-**Geleceğin Siber Güvenlik Mühendisi & Yazılım Geliştiricisi | Python / C# | Web Uygulamaları | TryHackMe**
+**Siber Güvenlik Öğreniyorum & Kendi Yazılımlarmı Geliştiriyorum | Python / C# | Web Uygulamaları | TryHackMe | Gitarist**
 
 🌐 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
+## 🛠️ Teknik Yetkinlikler **Henüz uzman değilim adım adım kendimi geliştiriyorum.**
 
 **Programlama Dilleri & Teknolojiler**
 
@@ -57,9 +57,8 @@ Yazılım geliştirme konusundaki tutkum, beni siber güvenlik alanında derinle
 
 ## 📬 İletişim
 
-- 📧 [ozan@ozansec.vercel.app](mailto:ozan@ozansec.vercel.app)
+- 📁 [Kişisel Web Sitem](https//ozansec.vercel.ağğ)
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-a-6229192b0/)
-
 
 ---
 
