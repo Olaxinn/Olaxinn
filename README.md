@@ -12,9 +12,16 @@
 
 ---
 
-## 🛠️ Teknik Yetkinlikler
-**Diller:**  
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-9.0-blueviolet?style=for-the-badge) ![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge)/![SQL](https://img.shields.io/badge/SQL-Standard-lightgrey?style=for-the-badge)
+### 🛠️ Teknik Yetkinlikler
+
+**Programlama Dilleri & Teknolojiler**
+
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Standard-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Standard-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Relational-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Veritabanları:**  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
