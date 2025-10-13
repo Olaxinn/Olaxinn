@@ -47,7 +47,7 @@
 
 ## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi
 
-19 yaşımda siber güvenlik ve yazılım konularına büyük ilgi duyuyorum. Lisede yazılım geliştirme eğitimi aldım ve şuan hedefim üniversitede bilgisayar alanında ilerleyip, hem yazılım hem siber güvenlik alanlarında uzmanlaşmak.  
+Ortaokul yıllarında cmd.exe -> color a ile başlayan hevesim gittikçe büyüdü. Bu yüzden lisede yazılım geliştirme eğitimi aldım ve şuan hedefim üniversitede bilgisayar alanında ilerleyip, hem yazılım hem siber güvenlik alanlarında uzmanlaşmak.  
 
 Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında deneyim kazanarak dijital dünyayı daha güvenli hale getirmek. 💡
 
