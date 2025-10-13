@@ -6,9 +6,9 @@
 ---
 
 ## 💻 İstatistiklerim
-![Ozan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Ozan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical)
 
 ---
 
