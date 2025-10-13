@@ -3,7 +3,9 @@
 
 📁 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
 
-![Giriş Animasyonu](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkyOGMzMGZ3NTZ5M2Q5ZHFvZHAwd2h2bGxlOGRiMmcyYXU0eWdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkyOGMzMGZ3NTZ5M2Q5ZHFvZHAwd2h2bGxlOGRiMmcyYXU0eWdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giriş Animasyonu" width="300"/>
+</p>
 
 ---
 
