@@ -8,7 +8,7 @@
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="580"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>
 <p align="center">
