@@ -60,4 +60,4 @@ Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında d
 ---
 
 **Not:** Tüm laboratuvar çalışmaları izne dayalı ortamlarda yapılmıştır.  
-© Ozan — MIT License.
+
