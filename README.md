@@ -1,7 +1,7 @@
 # n0thing
 **Siber Güvenlik Öğreniyorum & Kendi Yazılımlarmı Geliştiriyorum | Python / C# | Web Uygulamaları | TryHackMe | Gitarist**
 
-🌐 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
+📁 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
 
 ![Giriş Animasyonu](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkyOGMzMGZ3NTZ5M2Q5ZHFvZHAwd2h2bGxlOGRiMmcyYXU0eWdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
@@ -57,8 +57,8 @@ Yazılım geliştirme konusundaki tutkum, beni siber güvenlik alanında derinle
 
 ## 📬 İletişim
 
-- 📁 [Kişisel Web Sitem](https//ozansec.vercel.ağğ)
 - 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-a-6229192b0/)
+- 🌐 [Mail Adresim](mailto:o.aksoy1920@gmail.com)
 
 ---
 
