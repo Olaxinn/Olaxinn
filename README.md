@@ -27,8 +27,7 @@
 ## 🔒 Pentest & Lab Deneyimi
 - TryHackMe: [rlyn0thing](https://tryhackme.com/p/rlyn0thing)   
 💡 Tüm çalışmalar **izne dayalı lab ortamlarında** yapılmıştır. İzinsiz erişim etik değildir.
-
-![TryHackMe Badge](https://raw.githubusercontent.com/Olaxinn/Olaxinn/master/assets/thm_badge.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png" alt="Your Image Badge" />
 
 
 ---
