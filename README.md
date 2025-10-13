@@ -65,8 +65,8 @@ Kali Linux, Arch Linux, Git, VS Code
 - Basit otomasyon scriptleri ile güvenlik açıklarını tespit etmeyi öğreniyorum  
 - Linux ve Windows tabanlı penetration test laboratuvar deneyimi  
 
-🎬 **Mini GIF Örneği (Lab Çalışması):**  
-![Pentest Lab](https://media.giphy.com/media/3o7TKxizr0Z7V5LxlK/giphy.gif)
+🎬   
+<div class="tenor-gif-embed" data-postid="7933003135340137862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862">Tux Linux Tux Sticker</a>from <a href="https://tenor.com/search/tux-stickers">Tux Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
