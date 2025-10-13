@@ -40,16 +40,17 @@
 
 ---
 
-## 🔒 Siber Güvenlik & Pentest Deneyimi
+## 🔒 TryHackMe Hesabım
 
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png)
 ---
 
-## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi Olmak
+## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi
 
-Yazılım geliştirme konusundaki tutkum, beni siber güvenlik alanında derinlemesine bilgi edinmeye yönlendirdi. Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında uzmanlaşarak, dijital dünyayı daha güvenli hale getirmektir.
+19 yaşımda siber güvenlik ve yazılım konularına büyük ilgi duyuyorum. Lisede yazılım geliştirme eğitimi aldım ve şuan hedefim üniversitede bilgisayar alanında ilerleyip, hem yazılım hem siber güvenlik alanlarında uzmanlaşmak.  
 
----
+Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında deneyim kazanarak dijital dünyayı daha güvenli hale getirmek. 💡
+
 
 ## 📬 İletişim
 
