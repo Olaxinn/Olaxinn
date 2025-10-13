@@ -5,12 +5,16 @@
 
 ---
 
-## 💻 İstatistiklerim
-![Ozan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical)
+## 📊 GitHub İstatistiklerim
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical" alt="GitHub Streak" width="700"/>
+</p>
+
 
 ### 🛠️ Teknik Yetkinlikler
 
