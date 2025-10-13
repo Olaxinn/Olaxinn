@@ -1,5 +1,5 @@
 # n0thing
-**Siber Güvenlik Öğreniyorum & Kendi Yazılımlarmı Geliştiriyorum | Python / C# | Web Uygulamaları | TryHackMe | Gitarist**
+**Siber Güvenlik Öğreniyorum & Kendi Yazılımlarımı Geliştiriyorum | Python / C# | Web Uygulamaları | TryHackMe | Gitarist**
 
 📁 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
 
