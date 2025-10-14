@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Teknik Yetkinlikler **Henüz uzman değilim adım adım kendimi geliştiriyorum.**
+## 🛠️ Teknik Yetkinlikler.**Henüz uzman değilim adım adım kendimi geliştiriyorum.**
 
 **Programlama Dilleri & Teknolojiler**
 
