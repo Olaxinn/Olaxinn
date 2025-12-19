@@ -1,8 +1,8 @@
-<!-- ====== ÜST GİF / HERO ====== -->
 <p align="center">
-<iframe src="https://giphy.com/embed/EZr27ZbJwmjE9PGyLN" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ChesterAbstract-code-coding-coded-EZr27ZbJwmjE9PGyLN">via GIPHY</a></p>
-
+  <!-- GIPHY iframe yerine doğrudan gif görüntüsü (GitHub README iframe desteklemez) -->
+  <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hero-gif" width="80%" style="max-width:900px; border-radius:12px;" />
 </p>
+
 
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
 <p align="center">Backend geliştirici • Open-source meraklısı • Python & JavaScript</p>
