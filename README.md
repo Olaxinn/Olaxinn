@@ -1,63 +1,128 @@
-# n0thing
-**Siber Güvenlik Öğreniyorum & Kendi Yazılımlarımı Geliştiriyorum | Python / C# | Web Uygulamaları | TryHackMe | Gitarist**
+# Olaxinn
 
-📁 [Kişisel Web Sitem](https://ozansec.vercel.app) | 🔐 [TryHackMe Profilim](https://tryhackme.com/p/rlyn0thing)
+> Minimal, şık ve profesyonel bir proje sunumu — estetik ve fonksiyonelliği birleştirir.
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzkyOGMzMGZ3NTZ5M2Q5ZHFvZHAwd2h2bGxlOGRiMmcyYXU0eWdyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Giriş Animasyonu" width="300"/>
-</p>
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#) [![Made%20With%20%F0%9F%92%99](https://img.shields.io/badge/made%20with-%F0%9F%92%99-red.svg)](#)
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## Görsel Özet
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=radical&count_private=true" alt="Ozan's GitHub Stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=radical" alt="Top Languages" width="350"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=radical" alt="GitHub Streak" width="700"/>
-</p>
+> Bir bakışta projeyi anlamak için kısa bir özet ve görsel alan.
+
+![Proje Görseli](./.github/screenshot.png)
 
 ---
 
-## 🛠️ Teknik Yetkinlikler.**Henüz uzman değilim adım adım kendimi geliştiriyorum.**
+## İçindekiler
 
-**Programlama Dilleri & Teknolojiler**
-
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Standard-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Standard-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Relational-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Veritabanları:**  
-![MySQL](https://img.shields.io/badge/MySQL-8.0-lightblue?style=for-the-badge) ![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey?style=for-the-badge) ![SQL Server](https://img.shields.io/badge/SQLServer-2019-darkgreen?style=for-the-badge)
-
-**OS / Araçlar:**  
-![Kali Linux](https://img.shields.io/badge/KaliLinux-2025-darkblue?style=for-the-badge) ![Arch Linux](https://img.shields.io/badge/ArchLinux-2025-lightblue?style=for-the-badge)
+- [Hakkında](#hakkında)
+- [Özellikler](#özellikler)
+- [Kurulum](#kurulum)
+- [Kullanım](#kullanım)
+- [Konfigürasyon](#konfigürasyon)
+- [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
+- [İletişim](#iletişim)
 
 ---
 
-## 🔒 TryHackMe Hesabım
+## Hakkında
 
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/rlyn0thing.png)
----
-
-## 🚀 Hedefim: Geleceğin Siber Güvenlik Mühendisi
-
-Ortaokul yıllarında cmd.exe -> color a ile başlayan hevesim gittikçe büyüdü. Bu yüzden lisede yazılım geliştirme eğitimi aldım ve şuan hedefim üniversitede bilgisayar alanında ilerleyip, hem yazılım hem siber güvenlik alanlarında uzmanlaşmak.  
-
-Amacım, güvenli yazılım geliştirme ve sızma testi (pentest) alanlarında deneyim kazanarak dijital dünyayı daha güvenli hale getirmek. 💡
-
-
-## 📬 İletişim
-
-- 💼 [LinkedIn Profilim](https://www.linkedin.com/in/ozan-a-6229192b0/)
-- 🌐 [Mail Adresim](mailto:o.aksoy1920@gmail.com)
+Olaxinn, okunabilirlik, estetik ve profesyonellik önceliğiyle tasarlanmış bir proje şablonudur. Bu README, projeyi tanıtmak, hızlı başlangıç sağlamak ve katkıda bulunmayı kolaylaştırmak amacıyla hazırlandı.
 
 ---
 
-**Not:** Tüm laboratuvar çalışmaları izne dayalı ortamlarda yapılmıştır.  
+## Özellikler
 
+- Net ve modern görsel düzen
+- Kolay kurulum adımları
+- Örnek kullanım ve konfigürasyon
+- Katkı rehberi ve kodlama standartları
+
+---
+
+## Kurulum
+
+Aşağıdaki adımlar, projeyi yerel ortamınıza hızlıca kurmanızı sağlar.
+
+1. Depoyu klonlayın
+
+```bash
+git clone https://github.com/Olaxinn/Olaxinn.git
+cd Olaxinn
+```
+
+2. (Varsa) Bağımlılıkları kurun
+
+```bash
+# Örnek: Node.js projeleri için
+npm install
+# veya
+yarn install
+```
+
+---
+
+## Kullanım
+
+Projeyi çalıştırmak için örnek komutlar:
+
+```bash
+# Geliştirme sunucusunu başlat
+npm run dev
+
+# Derleme
+npm run build
+
+# Testleri çalıştır
+npm test
+```
+
+Kullanım örnekleri, CLI argümanları veya API uç noktaları gerekiyorsa bu bölüm genişletilebilir.
+
+---
+
+## Konfigürasyon
+
+Ortam değişkenleri ve temel ayarlar için `.env.example` dosyası kullanın:
+
+```text
+# Örnek .env
+APP_ENV=development
+APP_PORT=3000
+DATABASE_URL=
+```
+
+---
+
+## Katkıda Bulunma
+
+Katkılar çok değerlidir — küçük düzeltmelerden büyük özelliklere kadar her katkı memnuniyetle karşılanır.
+
+1. Fork yapın
+2. Yeni bir branch açın (`git checkout -b feature/is-isim`)
+3. Değişikliklerinizi commit edin (`git commit -m "feat: açıklama"`)
+4. Branch'ı push'layın
+5. Pull request oluşturun
+
+Lütfen proje stil rehberine ve test kapsamı kurallarına uyun.
+
+---
+
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakın.
+
+---
+
+## İletişim
+
+Her türlü soru, öneri veya iş birliği için:
+
+- GitHub: [Olaxinn](https://github.com/Olaxinn)
+- E-posta: hello@olaxinn.dev (örnek)
+
+---
+
+© 2025 Olaxinn — Tasarım ve geliştirme
