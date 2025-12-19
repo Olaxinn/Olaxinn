@@ -1,6 +1,6 @@
 <p align="center">
   <!-- GIPHY iframe yerine doğrudan gif görüntüsü (GitHub README iframe desteklemez) -->
-  <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hero-gif" width="80%" style="max-width:600px; border-radius:12px;" />
+  <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hero-gif" width="60%" style="max-width:600px; border-radius:18px;" />
 </p>
 
 
