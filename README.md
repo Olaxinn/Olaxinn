@@ -1,6 +1,7 @@
 <!-- ====== ÜST GİF / HERO ====== -->
 <p align="center">
-<div class="tenor-gif-embed" data-postid="25946184" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-spin-hacker-gif-25946184">Pepe Spin GIF</a>from <a href="https://tenor.com/search/pepe-gifs">Pepe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/EZr27ZbJwmjE9PGyLN" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ChesterAbstract-code-coding-coded-EZr27ZbJwmjE9PGyLN">via GIPHY</a></p>
+
 </p>
 
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
