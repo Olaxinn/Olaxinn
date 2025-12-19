@@ -16,7 +16,7 @@
 ## Hakkımda
 - 🎯 Hedef: Ölçeklenebilir backend sistemleri ve temiz mimari.  
 - 💻 Ana teknolojiler: Python, HTML, CSS, C#, JavaScript.  
-- 🌱 Şu anda öğreniyorum: C,  
+- 🌱 Şu anda öğreniyorum: C, Js DOM.Z  
 - 🔭 İlgi alanları: Network & Web Sec, Music.
 
 ---
