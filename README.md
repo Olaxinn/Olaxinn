@@ -1,8 +1,7 @@
 <p align="center">
   <!-- GIPHY iframe yerine doğrudan gif görüntüsü (GitHub README iframe desteklemez) -->
-  <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hero-gif" width="60%" style="max-width:600px; border-radius:18px;" />
+  <img src="https://media.giphy.com/media/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="hero-gif" width="80%" style="max-width:900px; border-radius:12px;" />
 </p>
-
 
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
 <p align="center">Backend geliştirici • Open-source meraklısı • Python & JavaScript</p>
@@ -17,7 +16,7 @@
 ## Hakkımda
 - 🎯 Hedef: Ölçeklenebilir backend sistemleri ve temiz mimari.  
 - 💻 Ana teknolojiler: Python, HTML, CSS, C#, JavaScript.  
-- 🌱 Şu anda öğreniyorum: C, JS DOM.  
+- 🌱 Şu anda öğreniyorum: C,  
 - 🔭 İlgi alanları: Network & Web Sec, Music.
 
 ---
