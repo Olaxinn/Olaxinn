@@ -1,7 +1,6 @@
 <!-- ====== ÜST GİF / HERO ====== -->
 <p align="center">
-  <!-- Buraya kendi gif'ini koy: değiştir --> 
-  <img src="https://tenor.com/tr/view/pepe-spin-hacker-gif-25946184" alt="hero-gif" width="80%" style="max-width:900px; border-radius:12px;" />
+<div class="tenor-gif-embed" data-postid="25946184" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-spin-hacker-gif-25946184">Pepe Spin GIF</a>from <a href="https://tenor.com/search/pepe-gifs">Pepe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
