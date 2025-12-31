@@ -6,11 +6,6 @@
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
 <p align="center">Backend geliştirici • Open-source meraklısı • Python & JavaScript</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark-111827?style=for-the-badge" alt="theme" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=for-the-badge&logo=github" alt="status" />
-</p>
-
 ---
 
 ## Hakkımda
@@ -21,8 +16,6 @@
 
 ---
 
-## Teknoloji & Görseller
-Aşağıdaki görseller (badge'ler) hızlıca kullandığım/öğrendiğim teknolojileri ve ilgi alanlarını gösterir. İstersen daha fazla ikon/badge ekleyip renkleri değiştirebilirim.
 
 <p align="center">
   <!-- Diller -->
@@ -58,7 +51,3 @@ Aşağıdaki görseller (badge'ler) hızlıca kullandığım/öğrendiğim tekno
 </p>
 
 ---
-
-<footer align="center">
-  <sub>Made with ❤️ by <b>Olaxinn</b> · Theme: dark</sub>
-</footer>
