@@ -39,15 +39,3 @@
 </p>
 
 
-
-## İstatistikler (dark)
-<p align="left">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Olaxinn&show_icons=true&theme=dark&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olaxinn&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Olaxinn&theme=dark&hide_border=true" />
-</p>
-
----
