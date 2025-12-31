@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Merhaba 👋, ben Olaxinn</h1>
-<p align="center">Backend geliştirici • Open-source meraklısı • Python & JavaScript</p>
+<p align="center">Yazılıma Meraklı Birisi</p>
 
 ---
 
